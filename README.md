@@ -7,26 +7,19 @@ This is an 8 bit computer made with the W65C02 processor.
 
 <table>
   <tr>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pr3.png/></td>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pr1.png/></td>
-    <td><img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pr2.png/></td>
+    <td><img src="https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/6502P1.png"/></td>
+    <td><img src="https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/6502P3.png"/></td>
   </tr>
  </table>
-Schematic:
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/sch.png/>
+
+
+Schematic:  
+<img src="https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/6502P2.png"/>
 
 
 
-
-
-
-
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pic1.jpg/>
-<img src=https://github.com/Tonikiller10000/8BitProcessor/blob/main/DisplayRegister/DisplayRegister_Pictures/pic4.png/>
-
-
-
-
+LINKS:
+ - 3D View of the board: https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/OGProcessorSchematicDiagram.jpg
 
 Datasheets:
 - 74LS574 (8 bit register): https://pdf1.alldatasheet.com/datasheet-pdf/view/51086/FAIRCHILD/74LS574.html
