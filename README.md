@@ -3,31 +3,33 @@
 ### Description:
 This is an 8 bit computer made with the W65C02 processor.
 
-
+### Features:
+ - 8 bit processor
+ - 1-20MHz CLK
+ - 16K RAM
+ - 32K ROM
+ - USB C Powered
+ - Serial interface
+ - Multiple GPIO
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/6502P1.png"/></td>
     <td><img src="https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/6502P3.png"/></td>
+    <td><img src="https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/6502P1.png"/></td>
   </tr>
  </table>
-
 
 Schematic:  
 <img src="https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/6502P2.png"/>
 
-
-
-LINKS:
- - 3D View of the board: https://github.com/Tonikiller10000/W65C02Computer/blob/main/ComputerPics/OGProcessorSchematicDiagram.jpg
-
 Datasheets:
-- 74LS574 (8 bit register): https://pdf1.alldatasheet.com/datasheet-pdf/view/51086/FAIRCHILD/74LS574.html
+- W65C02 (Processor): https://eater.net/datasheets/w65c02s.pdf
+- W65C22 (VIA): https://eater.net/datasheets/w65c22.pdf
 - AT28C256 (32K x 8 EERPOM): https://ww1.microchip.com/downloads/en/DeviceDoc/doc0006.pdf
-- 74LS138 ( 3 -> 8 demultiplexer ): https://pdf1.alldatasheet.com/datasheet-pdf/view/51039/FAIRCHILD/74LS138.html
-- 74LS76 (JK Flip Flop): https://pdf1.alldatasheet.com/datasheet-pdf/view/12663/ONSEMI/74LS76.html
-- NE555: https://pdf1.alldatasheet.com/datasheet-pdf/view/471200/STMICROELECTRONICS/NE555.html
-
+- CY7c199  (32K x 8  RAM): https://media.digikey.com/pdf/Data%20Sheets/Cypress%20PDFs/CY7C199.pdf
+- R6551 (ACIA): https://pdf.datasheetcatalog.com/datasheets/2300/501026_DS.pdf
+- MAX232 (Serial Port Driver): https://www.ti.com/lit/ds/symlink/max232.pdf?ts=1708783670366&ref_url=https%253A%252F%252Fwww.google.com%252F
+- 74HC00 (NAND Gate): https://www.diodes.com/assets/Datasheets/74HC00.pdf
 
 
 
