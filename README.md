@@ -1,11 +1,12 @@
 # W65C02Computer
 
 ### Description:
-This is an 8 bit computer made with the W65C02 processor.
+This is an 8 bit computer made with the W65C02 processor inspired by Ben Eater.
+After further checking, I will test the clk maximum speed (20MHz), some methods to write into ROM (take\`s too much time to write to it) and some other experiments with this design, beeing made mostly after the Ben Eater\`s original design.
 
 ### Features:
  - 8 bit processor
- - 1-20MHz CLK
+ - 1-10MHz CLK
  - 16K RAM
  - 32K ROM
  - USB C Powered
