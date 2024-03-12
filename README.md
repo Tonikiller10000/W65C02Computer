@@ -29,7 +29,8 @@ Datasheets:
 - AT28C256 (32K x 8 EERPOM): https://ww1.microchip.com/downloads/en/DeviceDoc/doc0006.pdf
 - CY7c199  (32K x 8  RAM): https://media.digikey.com/pdf/Data%20Sheets/Cypress%20PDFs/CY7C199.pdf
 - R6551 (ACIA): https://pdf.datasheetcatalog.com/datasheets/2300/501026_DS.pdf
-- MAX232 (Serial Port Driver): https://www.ti.com/lit/ds/symlink/max232.pdf?ts=1708783670366&ref_url=https%253A%252F%252Fwww.google.com%252F
+- MAX232 (Serial Port Driver): https://www.ti.com/lit/ds/symlink/max232.pdf
+- MAX232 (Second datasheet): https://pdf1.alldatasheet.com/datasheet-pdf/view/73113/MAXIM/MAX232EPE.html
 - 74HC00 (NAND Gate): https://www.diodes.com/assets/Datasheets/74HC00.pdf
 
 
